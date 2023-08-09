@@ -6,11 +6,16 @@ python web全栈开发问题文档
 
 #### 引导
 
+[Python](./docs/python.md "传送到Python") 目前主流编程语言之一
+
 [python Flask](./docs/flask.md "传送到Flask框架问题") Python Web服务框架
 
 [python fastApi](./docs/fastapi.md "传送到fastapi") Python fastapi框架（新型框架，推荐新学习者学习）
 
 [Vite](./docs/vite.md "传送到Vite") vue作者建立的前端工程脚手架，此文档针对于Vue方向
+
+[javascript](./docs/javascript.md "传送到javascript") 目前主流编程语言之一
+
 
 [Vue](./docs/vue.md "传送到Vue") 前端Vue框架
 
