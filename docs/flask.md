@@ -8,6 +8,16 @@
 
 ---
 
+##### 下载及其插件下载
+
+flask下载
+
+```
+pip install flask
+```
+
+---
+
 ##### 方法
 
 1. 添加路由
@@ -18,11 +28,19 @@
 
    @app.route("/index", methods=["GET", "POST"])
    def index():
-       return "Hello"
+    return "Hello"
    ```
 2. class模式使用
    ```python
-   
+   from flask import views
+   class BaseApiCls(views.MethodView):
+       def __init__(self):
+          # 在此配置服务
+          # sele.db = 
+       def get(self, *args, **kwargs):
+          return "这是GET请求"
+       def get(self, *args, **kwargs):
+          return "这是POST请求"
    ```
 ##### 错误
 

@@ -16,7 +16,6 @@ python web全栈开发问题文档
 
 [javascript](./docs/javascript.md "传送到javascript") 目前主流编程语言之一
 
-
 [Vue](./docs/vue.md "传送到Vue") 前端Vue框架
 
 [element-plus](./docs/element-plus.md "传送到element-plus") Vue框架组件库
@@ -32,6 +31,10 @@ python web全栈开发问题文档
 [Visual Studio Code(vsCode)](./docs/vsCode.md "传送到vsCode") Vscode配置，主要针对python + Vue
 
 [git](./docs/git.md "传送到git") git配置
+
+[linux](./docs/linux.md "传送到linux") linux命令
+
+[nginx](./docs/nginx.md "传送到nginx") nginx操作
 
 #### 参与贡献
 
